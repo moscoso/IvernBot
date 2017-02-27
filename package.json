@@ -1,0 +1,17 @@
+{
+  "name": "ivernbot",
+  "version": "1.0.0",
+  "description": "ivernbot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "cleverbot.io": "^1.0.4",
+    "request": "^2.79.0",
+    "sync-request": "^4.0.1"
+  }
+}
